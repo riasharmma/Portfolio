@@ -1,2 +1,2 @@
 # Portfolio
-portfolio-nbqh.vercel.app
+https://portfolio-nbqh.vercel.app/
